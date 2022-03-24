@@ -1,7 +1,9 @@
 # Primeiro-Repositório-Git-Hub
 # Desafio DIO Git /Hub
 
-## LER/DORT em profissionais da área de TI
+## LER/DORT em profissionais da área de TI 
+
+A saúde ocupacional pode ser definida como o conjunto de regras e procedimentos para minimizar, eliminar e neutralizar os riscos decorrentes das atividades laborais. Temos como exemplo  de doenças ocupacionais  a LER / DORT ou A. M. E. R. T., entre outras.
 
 Dor crônica constante de difícil controle. Esta é a melhor definição para os trabalhadores que sentem diariamente o drama do desenvolvimento de **LER/DORT **- Lesões por Esforços Repetitivos (LER) ou os Distúrbios Osteomusculares Relacionados ao Trabalho (DORT) ou **A.M.E.R.T.** (Afecções Musculares Relacionadas ao Trabalho) ou síndrome dos movimentos repetitivos.
 
