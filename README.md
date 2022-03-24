@@ -1,2 +1,2 @@
-# Primeiro-Reposit-rio-Git-Hub
-Desafio Gui /Hub
+# Primeiro-Repositório-Git-Hub
+Desafio DIO Git /Hub
